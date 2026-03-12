@@ -1,6 +1,6 @@
 package algods.lecture.vl_2026_03_12.Lists;
 
-public class LinkedList {
+public class LinkedList implements List {
     Element anchor;
     int size;
 
