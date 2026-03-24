@@ -34,6 +34,12 @@ public class Node {
         }
     }
 
+    /// Liefert den Knoten mit dem gegebenen `key`.
+    public Node get(int key) {
+        // TODO
+        return null;
+    }
+
     public void printTree() {
         if (this.isEmpty()) {
             return;
